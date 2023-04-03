@@ -1,0 +1,12 @@
+.nav_link[aria-current="page"] {
+  /* Estilos para el enlace activo */
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  margin-right: 1rem;
+}
+
+.nav_link:not([aria-current="page"]) {
+  /* Estilos para los enlaces no activos */
+  color: gray;
+  margin-right: 1rem; 
+}

@@ -105,3 +105,16 @@ a {
     color-scheme: dark;
   }
 }
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color:rgb(251, 251, 251)
+}
+
+.title-dark {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color:rgb(31, 31, 31)
+}
